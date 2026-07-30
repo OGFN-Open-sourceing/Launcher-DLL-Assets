@@ -1,0 +1,27 @@
+{
+"appVersion": "0.0.1 - Beta",
+"setupVersion": "1.0.0",
+
+"patchNotes": [
+    {
+      "PublicTesting": "",
+      "ShocaseImage": "",
+      "mdPath": "./patches/PublicTesting.md"
+    },
+    {
+      "QOL1": "",
+      "ShocaseImage": "",
+      "mdPath": "./patches/QOL_Change1.md"
+    }
+],
+"DevTeam":"Ducki67 (@ducki67 on discord) - Backend \n RootLander (@.markiemarc on discord) - GameServer",
+
+"files":[
+    {
+    "redirect":"./dll/",
+    "athena_client":"./dll/"
+
+}
+]
+
+}
