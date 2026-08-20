@@ -5,7 +5,7 @@
 "patchNotes": [
     {
       "PublicTestingSessions": "",
-      "ShocaseImage": "https://i.imgur.com/5KPkKMo.png",
+      "ShocaseImage": "https://i.imgur.com/9h5cu85.png",
       "mdPath": "./patches/PublicTesting.md"
     }
 
@@ -19,7 +19,8 @@
     "redirect":"./dll/",
     "athena_client":"./dll/"
 
-}
+  }
+
 ]
 
 }

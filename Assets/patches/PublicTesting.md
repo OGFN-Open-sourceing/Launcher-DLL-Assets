@@ -14,3 +14,7 @@ Our very own launcher (currently in beta) had just released allowing users to co
 - Auto re-login (rememberme).
 - Auto apply fixes (applys the fixes for XMPP).
 - Build downloads.
+
+
+
+- Writen by: @xyz
